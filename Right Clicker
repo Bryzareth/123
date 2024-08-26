@@ -246,7 +246,7 @@ namespace n$namespace
 			return false;
 		}
 		
-		// KeyStates[2] = Left Mouse Button
+		// KeyStates[3] = Right Mouse Button
 		static bool[] KeyStates = new bool[3];
 		static bool[] PrevKeyStates = new bool[3];
 		
